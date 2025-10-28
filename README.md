@@ -1,44 +1,32 @@
-# 🎮 Android Pixel Art Game (2025)
+# 🧩 Sudoku (2024)
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
-![Platform](https://img.shields.io/badge/Platform-Android-green)
-![IDE](https://img.shields.io/badge/IDE-Android%20Studio-orange)
+![Database](https://img.shields.io/badge/Database-MongoDB-green)
+![UI](https://img.shields.io/badge/UI-JavaFX-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A retro-style **2D top-down pixel art game** developed in **Java using Android Studio**.  
-This project was created as a **learning experiment** to understand the fundamentals of Android game development — including concepts like the **game loop**, **Canvas rendering**, and **input handling**.
+A **Java-based Sudoku game** built with **JavaFX** that dynamically adjusts puzzle difficulty based on player performance.  
+Designed as a programming project to explore algorithmic puzzle generation, player profiling, and GUI-based data interaction.
 
 ---
 
-## 🧩 Features
+## ✨ Features
 
-- 🎨 Retro 8-bit pixel art style  
-- 🕹️ Virtual joystick for 360° player movement  
-- ⚔️ Attack mechanics with interactive NPCs  
-- 🏠 Explore indoor and outdoor environments  
-- ⚡ Optimized rendering loop for stable frame rates  
-- 📱 Runs smoothly even on low-end Android devices  
-
----
-
-## 🧠 Learning Goals
-
-This project focuses on mastering:
-- Custom game loops and frame timing
-- Sprite animation & collision detection
-- Canvas-based rendering in Android
-- Input handling for touch and joystick controls
-- Resource optimization for mobile games
+- 🧮 Dynamic player-level system — puzzles get harder as the player improves  
+- 💾 MongoDB integration for player data, progress, and difficulty tracking  
+- 🎨 Clean and intuitive JavaFX-based GUI  
+- ⚡ Fast puzzle generation and validation algorithms  
+- 🧠 Intelligent difficulty scaling based on accuracy and solve time  
 
 ---
 
-## 🖼️ Screenshots
+## 🧠 Learning Objectives
 
-| Gameplay | Start Menu | Indoor Scene |
-|-----------|-------------|--------------|
-| ![Gameplay](assets/gameplay1.jpg) | ![Menu](assets/menu.jpg) | ![Indoor](assets/indoor.jpg) |
-
-> *(Replace with your actual file paths if you upload images to `/assets` folder in your repo)*
+This project focuses on:
+- Implementing Sudoku puzzle generation and solving algorithms  
+- Designing a user interface using JavaFX  
+- Managing player data with MongoDB integration  
+- Structuring modular Java projects for scalability  
 
 ---
 
@@ -46,27 +34,25 @@ This project focuses on mastering:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/android-pixel-art-game.git
+   git clone https://github.com/yourusername/sudoku-2024.git
    ```
 
-2. **Open in Android Studio**
-   - Go to **File → Open**
-   - Select the project folder
+2. **Open in IDE**
+   - Open the project in **IntelliJ IDEA**, **Eclipse**, or any Java IDE with **JavaFX support**
 
-3. **Build & Run**
-   - Choose your device/emulator
-   - Click ▶️ **Run**
-
-That’s it! The game should launch and display the start screen.
+3. **Run the Application**
+   - Simply execute the main class to launch the Sudoku GUI  
+   *(No MongoDB setup required — the project uses an embedded/local mode for data)*
 
 ---
 
-## 🎮 Controls
+## 🖥️ Screenshots
 
-| Action | Control |
-|--------|----------|
-| Move | Left virtual joystick |
-| Attack | Right on-screen button |
+| Gameplay | Difficulty Scaling | Player Stats |
+|-----------|--------------------|---------------|
+| ![Gameplay](assets/gameplay.jpg) | ![Difficulty](assets/difficulty.jpg) | ![Stats](assets/stats.jpg) |
+
+> *(Replace with your own screenshots once uploaded to the `/assets` folder.)*
 
 ---
 
@@ -86,11 +72,10 @@ See the [LICENSE](LICENSE) file for full details.
 
 ---
 
-## 💡 Future Improvements
-- Add enemy AI and health systems  
-- Implement item collection and inventory  
-- Add sound effects and background music  
-- Create more areas and transitions between levels  
+## 🚀 Future Enhancements
+- Add leaderboard and cloud-sync features  
+- Improve puzzle-solving AI logic  
+- Introduce timed challenges and hint systems  
 
 ---
 
