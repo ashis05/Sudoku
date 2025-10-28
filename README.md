@@ -50,7 +50,7 @@ This project focuses on:
 
 | Gameplay | Menu Scaling |
 |-----------|--------------------|
-| ![Gameplay](assets/gameplay.jpg) | ![Menu](assets/menu.jpg) |
+| ![Gameplay](assets/gameplay1.jpg) | ![Menu](assets/menu.jpg) |
 
 > *(Replace with your own screenshots once uploaded to the `/assets` folder.)*
 
