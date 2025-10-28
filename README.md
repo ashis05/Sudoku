@@ -60,7 +60,7 @@ This project focuses on:
 
 **Ashis Wadhwani**  
 📍 Developer & Designer of the project  
-🔗 [GitHub Profile](https://github.com/yourusername)
+🔗 [GitHub Profile](https://github.com/ashis05)
 
 ---
 
