@@ -48,9 +48,9 @@ This project focuses on:
 
 ## 🖥️ Screenshots
 
-| Gameplay | Difficulty Scaling | Player Stats |
-|-----------|--------------------|---------------|
-| ![Gameplay](assets/gameplay.jpg) | ![Difficulty](assets/difficulty.jpg) | ![Stats](assets/stats.jpg) |
+| Gameplay | Menu Scaling |
+|-----------|--------------------|
+| ![Gameplay](assets/gameplay.jpg) | ![Menu](assets/menu.jpg) |
 
 > *(Replace with your own screenshots once uploaded to the `/assets` folder.)*
 
